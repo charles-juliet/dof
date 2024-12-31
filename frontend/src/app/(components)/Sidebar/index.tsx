@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://s3-inventorymanagement.s3.us-east-2.amazonaws.com/logo.png"
+          src="https://inventorymanagement-s3-bucket.s3.eu-north-1.amazonaws.com//logo.png"
           alt="DOF-logo"
           width={27}
           height={27}
