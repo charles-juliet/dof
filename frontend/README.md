@@ -82,7 +82,7 @@ This repository serves as a guide to help developers build and deploy a fully fu
 
 ## 🎯 Contributing
 
-We welcome contributions! To contribute, please follow the steps below:
+I welcome contributions! To contribute, please follow the steps below:
 
 1. **Fork the repository** to your GitHub account.
 2. **Create a new branch** from the main branch.
@@ -92,6 +92,6 @@ We welcome contributions! To contribute, please follow the steps below:
 6. **Create a Pull Request (PR)** from your forked repository to the main repository.
 7. **Describe your changes** in the PR description, including any relevant details or context.
 
-We will review your PR and merge it after ensuring it meets our guidelines.
+I will review your PR and merge it after ensuring it meets our guidelines.
 
 Thank you for contributing!
